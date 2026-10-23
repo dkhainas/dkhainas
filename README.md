@@ -2,7 +2,7 @@
 
 # Dmytro Khainas
 
-### AWS Solutions Architect · Technical Leader · AI & Cloud Builder
+### Fractional CTO · AWS Solutions Architect · AI & Cloud Builder
 
 **I turn ambitious ideas into cloud and AI systems that run quietly, scale easily and pay for themselves.**
 
@@ -29,6 +29,7 @@ Technology works best when nobody notices it. I lead teams that use **AI, cloud 
 ## 🚀 Right now
 
 - 🏛️ **Running Formigacrobata**, my independent cloud and AI architecture practice serving fintech and enterprise clients across the UK and EU
+- 🧑‍✈️ **Working as a fractional CTO and technical advisor** for startups and enterprise organisations
 - 🤖 **Building agentic AI**: Intelligent Document Processing, AI-augmented advisory and compliance automation in regulated finance
 - 🛰️ **Building [AiOps.chat](https://aiops.chat)**, an agentic dashboard for managing infrastructure across clouds
 - 🌐 **Running [CustomsRates.com](https://customsrates.com)**, a global trade data API (HS nomenclatures, duty rates, taxes, trade agreements, de minimis rules, restricted-party screening)
@@ -49,8 +50,23 @@ Technology works best when nobody notices it. I lead teams that use **AI, cloud 
 
 ---
 
+## 🧑‍✈️ CTO as a service
+
+I've been the person accountable for the technology as Chief Software Architect and Chief Data Pipeline Architect. Now I take on that role on a fractional or interim basis.
+
+| 🚀 For startups | 🏢 For enterprises |
+|:--|:--|
+| Getting from idea to MVP to scale without rebuilding everything along the way | Cloud and AI strategy tied to business goals, with a roadmap the board can follow |
+| Choosing a tech stack and architecture that suits the runway and the team | Modernising legacy systems, cloud migration and platform consolidation |
+| Hiring and building the first engineering team, and setting up its culture and delivery process | Governance, security posture and compliance by design (EU / UK regulation) |
+| AI-first product design that adds real value rather than features for show | FinOps: cutting cloud spend while improving reliability |
+| Technical due diligence and preparation for investor and partner conversations | Engineering standards, DevOps practice and leadership coaching across teams |
+
+---
+
 ## 🛠️ What I do
 
+- 🧑‍✈️ **Technology leadership**: fractional / interim CTO, technology strategy, architecture governance and advisory
 - ☁️ **Cloud-native & serverless**: reliable, scalable enterprise systems
 - 🧠 **AI & Big Data**: agentic systems, IDP, ingestion, streaming & batch, ETL, data lakes and warehouses
 - 🔁 **Migration & resilience**: cloud adoption and migration strategy, disaster prevention and recovery
@@ -118,7 +134,7 @@ Technology works best when nobody notices it. I lead teams that use **AI, cloud 
 
 ### Let's build something worth building
 
-Working on something that should make the world better, people's days easier or a business run smoother? Let's talk.
+Need a technology partner for a startup, a CTO-level view of an enterprise transformation, or an architect for something that should make the world better, people's days easier or a business run smoother? Let's talk.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/dkhainas)
 [![Email](https://img.shields.io/badge/Say_hello-dmytro%40khainas.dev-111111?style=for-the-badge)](mailto:dmytro@khainas.dev)
