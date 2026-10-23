@@ -31,8 +31,6 @@ Technology works best when nobody notices it. I lead teams that use **AI, cloud 
 - 🏛️ **Running Formigacrobata**, my independent cloud and AI architecture practice serving fintech and enterprise clients across the UK and EU
 - 🧑‍✈️ **Working as a fractional CTO and technical advisor** for startups and enterprise organisations
 - 🤖 **Building agentic AI**: Intelligent Document Processing, AI-augmented advisory and compliance automation in regulated finance
-- 🛰️ **Building [AiOps.chat](https://aiops.chat)**, an agentic dashboard for managing infrastructure across clouds
-- 🌐 **Running [CustomsRates.com](https://customsrates.com)**, a global trade data API (HS nomenclatures, duty rates, taxes, trade agreements, de minimis rules, restricted-party screening)
 - 🧑‍🏫 **Coaching engineers** so they grow, ship faster and need me less over time
 
 ---
@@ -112,6 +110,15 @@ I've been the person accountable for the technology as Chief Software Architect 
 | 2017 – 2018 | **Senior Engineer** · [Bridg](https://bridg.com) | Moved the platform to serverless; data lake & ETL with Kafka, Spark and Glue for a large retail CRM |
 | 2016 – 2017 | **Senior Engineer** · [AKQA](https://www.akqa.com) | TAG Heuer Connected: security protocol, reactive architecture, partner SDK |
 | 2011 – 2016 | **Engineer, Security R&D** · [Samsung](https://www.samsung.com) | Code obfuscation, malware protection, secure firmware update management |
+
+---
+
+## 🧪 Past projects
+
+| Project | What it is |
+|:--|:--|
+| 🌐 **[CustomsRates.com](https://customsrates.com)** | A global trade data API covering HS nomenclatures, duty rates, taxes, trade agreement rates, de minimis rules, customs exchange rates, automated classification and restricted-party screening, plus a worldwide geodata database |
+| 🛰️ **[AiOps.chat](https://aiops.chat)** | An agentic dashboard for managing infrastructure across clouds in plain language |
 
 ---
 
